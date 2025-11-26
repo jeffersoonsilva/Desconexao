@@ -43,3 +43,8 @@ pre.code-sample{
     color:var(--accent); 
     text-decoration:none
 }
+
+.btn {
+  padding: 5px 20px;  
+  font-size: 14px;     
+}
